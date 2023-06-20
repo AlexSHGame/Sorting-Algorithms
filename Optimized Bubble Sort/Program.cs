@@ -1,6 +1,6 @@
-﻿namespace Bubble_Sort
+﻿namespace Optimized_Bubble_Sort
 {
-    internal class BubbleSort
+    internal class OptimizedBubbleSort
     {
         /// <summary>
         /// Main function to sort a given array (in ascending order) 
@@ -8,11 +8,18 @@
         /// <param name="array"></param>
         public void Sort(int[] array)
         {
+            bool swap;
             for (int i = 0; i < array.Length - 1; i++) // i is a simple iterator
             {
+                swap = false;
                 for (int j = 0; j < array.Length - 1 - i; j++) // j is an iterator throughout a given array
                     if (array[j] > array[j + 1])
+                    {
                         Swap(ref array[j], ref array[j + 1]);
+                        swap = true;
+                    }
+                if (swap == false)
+                    break;
             }
         }
 
@@ -42,7 +49,7 @@
         {
             int[] myUnsortedArray = { 34, 3, 89, 99, 1, 0, 4, -5, 67, 66 };
 
-            BubbleSort mySort = new();
+            OptimizedBubbleSort mySort = new();
             Console.WriteLine("The initial unsorted array:"); mySort.PrintArray(myUnsortedArray);
             mySort.Sort(myUnsortedArray);
             Console.WriteLine("The sorted array:"); mySort.PrintArray(myUnsortedArray);
