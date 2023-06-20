@@ -1,0 +1,15 @@
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\bin\Debug\net7.0\Optimized Bubble Sort.exe
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\bin\Debug\net7.0\Optimized Bubble Sort.deps.json
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\bin\Debug\net7.0\Optimized Bubble Sort.runtimeconfig.json
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\bin\Debug\net7.0\Optimized Bubble Sort.dll
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\bin\Debug\net7.0\Optimized Bubble Sort.pdb
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\obj\Debug\net7.0\Optimized Bubble Sort.csproj.AssemblyReference.cache
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\obj\Debug\net7.0\Optimized Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\obj\Debug\net7.0\Optimized Bubble Sort.AssemblyInfoInputs.cache
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\obj\Debug\net7.0\Optimized Bubble Sort.AssemblyInfo.cs
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\obj\Debug\net7.0\Optimized Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\obj\Debug\net7.0\Optimized Bubble Sort.dll
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\obj\Debug\net7.0\refint\Optimized Bubble Sort.dll
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\obj\Debug\net7.0\Optimized Bubble Sort.pdb
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\obj\Debug\net7.0\Optimized Bubble Sort.genruntimeconfig.cache
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Optimized Bubble Sort\obj\Debug\net7.0\ref\Optimized Bubble Sort.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qe3+BVWItxhTIESe+dwT0r0Y9XECm6ulbAcY3mnvt0S2oqFtYY5r988RgRGVmbzrwHRmeqUjCOjQUWiAc+Kl+w==",
+  "dgSpecHash": "kVIXvxQltjgGgdOg8gRojgWbISH3QRVKWFnzAXXC9AjimN2OAwAhW9mUE0u1zMsGfSAwEYRRA3UxnzMHIkYcUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\romas\\Desktop\\C# solutions\\Heap Sort\\Heap Sort\\Heap Sort.csproj",
+  "projectFilePath": "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Sorting-Algorithms\\Heap Sort\\Heap Sort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

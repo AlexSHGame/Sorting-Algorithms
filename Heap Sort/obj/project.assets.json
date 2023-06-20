@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\romas\\Desktop\\C# solutions\\Heap Sort\\Heap Sort\\Heap Sort.csproj",
+      "projectUniqueName": "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Sorting-Algorithms\\Heap Sort\\Heap Sort.csproj",
       "projectName": "Heap Sort",
-      "projectPath": "C:\\Users\\romas\\Desktop\\C# solutions\\Heap Sort\\Heap Sort\\Heap Sort.csproj",
+      "projectPath": "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Sorting-Algorithms\\Heap Sort\\Heap Sort.csproj",
       "packagesPath": "C:\\Users\\romas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\romas\\Desktop\\C# solutions\\Heap Sort\\Heap Sort\\obj\\",
+      "outputPath": "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Sorting-Algorithms\\Heap Sort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\romas\\AppData\\Roaming\\NuGet\\NuGet.Config",

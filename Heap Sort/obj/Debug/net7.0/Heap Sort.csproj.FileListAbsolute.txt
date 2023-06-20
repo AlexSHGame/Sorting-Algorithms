@@ -28,3 +28,18 @@ C:\Users\romas\Desktop\C# solutions\Heap Sort\Heap Sort\obj\Debug\net7.0\refint\
 C:\Users\romas\Desktop\C# solutions\Heap Sort\Heap Sort\obj\Debug\net7.0\Heap Sort.pdb
 C:\Users\romas\Desktop\C# solutions\Heap Sort\Heap Sort\obj\Debug\net7.0\Heap Sort.genruntimeconfig.cache
 C:\Users\romas\Desktop\C# solutions\Heap Sort\Heap Sort\obj\Debug\net7.0\ref\Heap Sort.dll
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\bin\Debug\net7.0\Heap Sort.exe
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\bin\Debug\net7.0\Heap Sort.deps.json
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\bin\Debug\net7.0\Heap Sort.runtimeconfig.json
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\bin\Debug\net7.0\Heap Sort.dll
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\bin\Debug\net7.0\Heap Sort.pdb
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\obj\Debug\net7.0\Heap Sort.csproj.AssemblyReference.cache
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\obj\Debug\net7.0\Heap Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\obj\Debug\net7.0\Heap Sort.AssemblyInfoInputs.cache
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\obj\Debug\net7.0\Heap Sort.AssemblyInfo.cs
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\obj\Debug\net7.0\Heap Sort.csproj.CoreCompileInputs.cache
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\obj\Debug\net7.0\Heap Sort.dll
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\obj\Debug\net7.0\refint\Heap Sort.dll
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\obj\Debug\net7.0\Heap Sort.pdb
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\obj\Debug\net7.0\Heap Sort.genruntimeconfig.cache
+C:\Users\romas\Desktop\C#\C# Solutions\Sorting-Algorithms\Heap Sort\obj\Debug\net7.0\ref\Heap Sort.dll

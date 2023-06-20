@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Heap Sort\\Sorting-Algorithms\\Bubble Sort\\Bubble Sort\\Bubble Sort.csproj": {}
+    "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Sorting-Algorithms\\Bubble Sort\\Bubble Sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Heap Sort\\Sorting-Algorithms\\Bubble Sort\\Bubble Sort\\Bubble Sort.csproj": {
+    "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Sorting-Algorithms\\Bubble Sort\\Bubble Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Heap Sort\\Sorting-Algorithms\\Bubble Sort\\Bubble Sort\\Bubble Sort.csproj",
+        "projectUniqueName": "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Sorting-Algorithms\\Bubble Sort\\Bubble Sort.csproj",
         "projectName": "Bubble Sort",
-        "projectPath": "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Heap Sort\\Sorting-Algorithms\\Bubble Sort\\Bubble Sort\\Bubble Sort.csproj",
+        "projectPath": "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Sorting-Algorithms\\Bubble Sort\\Bubble Sort.csproj",
         "packagesPath": "C:\\Users\\romas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Heap Sort\\Sorting-Algorithms\\Bubble Sort\\Bubble Sort\\obj\\",
+        "outputPath": "C:\\Users\\romas\\Desktop\\C#\\C# Solutions\\Sorting-Algorithms\\Bubble Sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\romas\\AppData\\Roaming\\NuGet\\NuGet.Config",
