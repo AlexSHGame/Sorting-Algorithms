@@ -2,8 +2,10 @@
 {
     internal class HeapSort
     {
-        /*Methods*/
-        // 1 - Main function to sort a given array
+        /// <summary>
+        /// Main function to sort a given array
+        /// </summary>
+        /// <param name="array"></param>
         public void Sort(int[] array)
         {
             int arrayLength = array.Length;
@@ -21,22 +23,33 @@
             }
         }
 
-        // 2 - Utility functions
-        // 2.1 - Swap two elements
+        /// <summary>
+        /// Swap two elements
+        /// </summary>
+        /// <param name="first"></param>
+        /// <param name="second"></param>
         public void Swap(ref int first, ref int second)
         {
             int temp = first;
             first = second;
             second = temp;
         }
-        // 2.2 - Print an array
+        /// <summary>
+        /// Print an array
+        /// </summary>
+        /// <param name="array"></param>
         public void PrintArray(int[] array)
         {
             foreach (int i in array)
                 Console.Write("{0} ", i);
             Console.WriteLine();
         }
-        // 2.3 - Heapify an array in ascending order
+        /// <summary>
+        /// Heapify an array in ascending order
+        /// </summary>
+        /// <param name="array"></param>
+        /// <param name="i"></param>
+        /// <param name="length"></param>
         public void MaxHeapify(int[] array, int i, int length)
         {
             /* Fields */
